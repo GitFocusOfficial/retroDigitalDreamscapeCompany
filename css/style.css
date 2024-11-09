@@ -27,7 +27,7 @@ body {
     position: absolute;
     display: flex;
     transform-style: preserve-3d;
-    animation: rotate 70s infinite linear;
+    animation: rotate 65s infinite linear;
 }
 
 .wall {
