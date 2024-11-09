@@ -77,3 +77,7 @@ header {
 .nav li .nav-btn:hover::after {
     width: 50%;
 }
+
+.nav li .nav-btn:hover {
+    color: var(--primary);
+}
