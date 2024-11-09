@@ -103,3 +103,19 @@ header {
     justify-content: center;
     align-items: center;
 }
+
+.bag .number {
+    position: absolute;
+    right: 0;
+    bottom: 5px;
+    width: 18px;
+    height: 18px;
+    border-radius: 50%;
+    background: #000000;
+    font-size: 0.5em;
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
