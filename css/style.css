@@ -119,3 +119,9 @@ header {
     align-items: center;
 }
 
+.menu {
+    display: none;
+    position: relative;
+    transition: 0.5s;
+}
+
