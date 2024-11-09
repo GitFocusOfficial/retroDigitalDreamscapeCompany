@@ -81,3 +81,11 @@ header {
 .nav li .nav-btn:hover {
     color: var(--primary);
 }
+
+.nav .nav-btn.active {
+    color: var(--primary);
+}
+
+.nav .nav-btn.active::after {
+    width: 50%;
+}
