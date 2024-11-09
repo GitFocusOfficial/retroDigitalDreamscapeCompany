@@ -73,3 +73,7 @@ header {
     background: var(--primary);
     transition: 0.5s;
 }
+
+.nav li .nav-btn:hover::after {
+    width: 50%;
+}
